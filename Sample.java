@@ -5,8 +5,6 @@ public class Sample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//Adding some code from Local.
-		
 		System.out.println("Implicit Type Casting");
 		char a='A'; // Implicit assignment
 		System.out.println("Value of a :"+a);
